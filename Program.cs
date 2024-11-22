@@ -1,10 +1,7 @@
-﻿namespace Solutions
+﻿class Program1
 {
-    internal class Program
+    public static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        System.Console.WriteLine("Ура ура");
     }
 }
